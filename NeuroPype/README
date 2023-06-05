@@ -1,1 +1,11 @@
+This file is about the NeuroPype. This was a software application used to clean and classify data. Probably the most crucial and complicated section combining calculus, linear algebra, statistics, and differential equations. All this is explained in the ENGR-2999 paper. Advised to read.
 
+The following link will help set up and learn more about NeuroPype:
+
+Docs-- https://www.neuropype.io/docs/
+Student Edition -- https://www.neuropype.io/academic-edition 
+Tutorials-- https://www.neuropype.io/docs/tutorials/index.html (Recommend)
+
+I also inlcuded the pipeline I used.
+
+Additionally, the deafult storage locations is-- C:\Program Files\Intheon\NeuroPype Academic Suite\NeuroPype\python 
