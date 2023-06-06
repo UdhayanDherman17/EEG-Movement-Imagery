@@ -1,6 +1,9 @@
 This file contains code files for:
-  -Data capturing script to store voltage values in a xdf file. -- Using Lab Recorder -- Explained in paper
-  -ESP8266 code used to control and recieve OSC message in order to communicate with the  LED's
+
+-Data capturing script to store voltage values in a xdf file. -- Using Lab Recorder -- Explained in paper
+There are 2 version. V1 is a graphical verison easier for user to use but require more performance. V2 one require minimal         performance.
+
+-ESP8266 code used to control and recieve OSC message in order to communicate with the  LED's
  
 
 
