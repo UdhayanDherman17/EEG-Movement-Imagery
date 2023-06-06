@@ -1,0 +1,9 @@
+1.Use appropriate gain settings: The OpenBCI GUI provides different gain settings for the channels, which can amplify the input signals. It's important to select the appropriate gain settings that match the expected range of the signals. For instance, if the signals are expected to range between -50mV to 50mV, using a gain of 24 may be appropriate, but using a gain of 2000 may result in electron railing.
+
+2.Filter the signals: Filtering the signals can remove high-frequency noise or artifacts that may cause electron railing. The OpenBCI GUI provides various filtering options, such as high-pass, low-pass, and notch filters, which can be applied to the signals before amplification.
+
+3.Use shielded cables: Shielded cables can reduce electromagnetic interference that may affect the signals. It's recommended to use shielded cables for the electrodes and to connect them to the OpenBCI board through a shielded interface.
+
+4.Check the electrode impedances: High electrode impedances can cause the signals to be weak or noisy, which may lead to electron railing. It's important to check the electrode impedances using the OpenBCI GUI or other impedance measurement tools and to ensure they are within the recommended range.
+
+5.Avoid movement artifacts: Movement artifacts can introduce sudden changes in the signals that may cause electron railing. It's recommended to minimize movements during the recording and to avoid placing the electrodes near sources of electromagnetic interference, such as motors or power cables.
