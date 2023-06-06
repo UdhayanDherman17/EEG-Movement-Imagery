@@ -9,3 +9,5 @@ Tutorials-- https://www.neuropype.io/docs/tutorials/index.html (Recommend)
 I also inlcuded the pipeline I used.
 
 Additionally, the deafult storage location for piplines is-- C:\Program Files\Intheon\NeuroPype Academic Suite\NeuroPype\python 
+
+--Added an expample of voltage data colleted from calbration recording. xdf file -- to view search for xdf viewer.
