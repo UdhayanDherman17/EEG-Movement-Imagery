@@ -3,3 +3,5 @@ The project's goal is to be able to record electroencephalogram (EEG) data, whic
 This was my final project I did, for my Engineering Capstone project in order to complete im Diploma in Engineering and Fabrications Technology.
 
 I have attached my paper explaining the process I went through explaining the project in much detail. The purpose was to help or intice others into the the world of mechatroincs.
+
+![](Host-Image/Untitled.png)
